@@ -1,5 +1,5 @@
 # PackardBellMini
-Packard Bell Legend 2000 Raspberry Pi Case
+Packard Bell Legend 2CD / 2000 Raspberry Pi Case (or WYSE 3040)
 
 12.29.22 - added an All in one version of the top case that has the 5.25 and 3.5 bays filled, instead of seperate prints.
 
