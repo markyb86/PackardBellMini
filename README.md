@@ -7,7 +7,12 @@ Packard Bell Legend 2000 Raspberry Pi Case
            
            - 5mm hole on left is for LED.
            
+           - 1cm x 1cm indent on left intended for tiny case badge.
+           
 - added a WYSE bottom case file, for using a Dell WYSE 3040 motherboard instead of a raspberry Pi.
+
+![image](https://user-images.githubusercontent.com/34405495/210020103-2ed74e1e-b7e4-4d09-b010-aa24bda7c886.png)
+
          
 
 ![Untitled](https://user-images.githubusercontent.com/34405495/205400024-95b3ea4c-c254-41e0-b42c-56cd1f6c7dcc.gif)
