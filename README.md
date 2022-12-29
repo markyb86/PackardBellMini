@@ -2,9 +2,9 @@
 Packard Bell Legend 2000 Raspberry Pi Case
 
 12.29.22 - added an All in one version of the top case that has the 5.25 and 3.5 bays filled, instead of seperate prints.
-              8mm hole on right either fits button model or an 8mm panel mount switch.
-              5mm hole on left is for LED.
-         - added a WYSE bottom case file, for using a Dell WYSE 3040 motherboard instead of a raspberry Pi.
+           - 8mm hole on right either fits button model or an 8mm panel mount switch.
+           - 5mm hole on left is for LED.
+- added a WYSE bottom case file, for using a Dell WYSE 3040 motherboard instead of a raspberry Pi.
          
 
 ![Untitled](https://user-images.githubusercontent.com/34405495/205400024-95b3ea4c-c254-41e0-b42c-56cd1f6c7dcc.gif)
