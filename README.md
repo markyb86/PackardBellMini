@@ -2,6 +2,7 @@
 Packard Bell Legend 2CD / 2000 Raspberry Pi Case (or WYSE 3040)
 
 2.22.23 - added STL files for this monitor! Built on the Eyoyo 5" LCD, uses m2 2.5mm screws to hold the front and back together, and the LCD is mounted by removing it's screws and front bezel, and using this model as the new front bezel, and using it's screws or m3 screws to mount from the outside.
+
 ![image](https://user-images.githubusercontent.com/34405495/220695933-2b796e13-fcc9-456b-a422-02a19ca2a3e6.png)
 
 
